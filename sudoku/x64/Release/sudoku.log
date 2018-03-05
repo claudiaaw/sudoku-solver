@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Board.cpp
+Board.cpp(19): warning C4101: 'grid': unreferenced local variable
+  Box.cpp
+  sudoku.cpp
+  Generating code
+  All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sudoku.vcxproj -> C:\Users\aaa\Documents\Visual Studio 2015\Projects\sudoku\x64\Release\sudoku.exe
+  sudoku.vcxproj -> C:\Users\aaa\Documents\Visual Studio 2015\Projects\sudoku\x64\Release\sudoku.pdb (Full PDB)
